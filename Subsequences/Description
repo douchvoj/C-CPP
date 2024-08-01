@@ -1,1 +1,1 @@
-
+The task is to implement a class template that can search for substrings which occur repeatedly within a given string. To ensure the implemented algorithm is sufficiently general, it will be designed as a generic class and will operate on general sequences of elements.

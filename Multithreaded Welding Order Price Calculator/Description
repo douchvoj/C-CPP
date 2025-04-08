@@ -1,0 +1,3 @@
+Multithreaded system for calculating the cost of custom steel plate welding orders.
+The solution simulates a company that processes customer requests for welded steel sheets of specific dimensions and material types.
+Orders are fulfilled by combining prefabricated plates from multiple suppliers, with welding costs based on specified quality levels.
